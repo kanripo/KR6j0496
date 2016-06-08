@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:41.984112
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:19
 #+TITLE: 佛說常瞿利毒女陀羅尼呪經
 #+PROPERTY: CBETA_ID T21n1265
 #+PROPERTY: ID KR6j0496
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1265
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0496_T_000-0294a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0496_T_001-0294a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1265¶
-
- 《佛說常瞿利毒女陀羅尼呪經》(并行法)¶
+No. 1265¶
+《佛說常瞿利毒女陀羅尼呪經》(并行法)¶
 ¶
 瞿多三藏譯¶
 
@@ -119,7 +118,7 @@ No.1265¶
 
 爾時世尊說此呪已。會中無量呪仙及諸藥¶
 叉阿蘇羅迦樓羅緊那羅人非人等。聞佛所¶
-說治毒神呪。皆大歡喜。盡諸印可頂戴受持¶
+說治毒神呪。皆大觀喜。盡諸印可頂戴受持¶
 作禮而去。¶
 
 　　　　此符用墨書毒上呪七遍甚驗。¶
